@@ -1,8 +1,8 @@
 Edward Carrington
 ======
 
-#### Former Investment Advisor turned Java developer. Passionate about creating effective solutions that solve real problems.
-###### [ [github](https://github.com/edwardcarrington) ] . [ [linkedin](https://www.linkedin.com/in/edwardcarrington/) ] . [ [angel](https://angel.co/edwardcarrington) ] . [ [email](edwardcarrington82@gmail.com) ] . [ 248 789 8653 ]
+### Former Investment Advisor turned Java developer. Passionate about creating effective solutions that solve real problems.
+### [ [github](https://github.com/edwardcarrington) ] . [ [linkedin](https://www.linkedin.com/in/edwardcarrington/) ] . [ [angel](https://angel.co/edwardcarrington) ] . [ [email](edwardcarrington82@gmail.com) ] . [ 248 789 8653 ]
 
 
 Education
