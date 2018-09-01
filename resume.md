@@ -49,4 +49,4 @@ Other
 **Alumni, [Power Moves](http://powermovesnola2.squarespace.com/)** (2015, Detroit MI)
 
 - National accelerator and pitch competition for underrepresented minorities.
-- $20,000 cash prize pitch winner.
+- $20,000 cash prize pitch [winner](https://www.freep.com/story/money/business/michigan/2015/04/15/power-moves-pitch-competition/25808015/).
