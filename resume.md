@@ -7,7 +7,7 @@ Edward Carrington
 
 Education
 ---------
-**Java Developer Bootcamp, Grand Circus** (September 2018)
+**Java Developer Bootcamp, [Grand Circus Detroit](https://www.grandcircus.co/)** (September 2018)
 
 - Focused on developing and applying the OOP concepts in building enterprise Java applications using Spring Hibernate and other frameworks.
 
@@ -42,11 +42,11 @@ Experience
 
 Other
 -----
-**Alumni, 1000 Points of Light (CivicX)** (2017 Atlanta GA)
+**Alumni, [1000 Points of Light](https://cvcx.org/cohort-9/#.W4quD5NKhTY)** (2017, Atlanta GA)
 
 - National accelerator program and investment fund focused on civic ventures that include people as part of the solution to critical social problems.
 
-**Alumni, Power Moves** (2015 Detroit MI)
+**Alumni, [Power Moves](http://powermovesnola2.squarespace.com/)** (2015, Detroit MI)
 
 - National accelerator and pitch competition for underrepresented minorities.
 - $20,000 cash prize winner.
