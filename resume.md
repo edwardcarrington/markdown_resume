@@ -26,7 +26,7 @@ Experience
 ----------
 **Founder, [Mytual Technologies](https://www.mytual.io/)** (2017-present, Detroit MI)
 
-- Led push to help more small businesses gain better access to retirement plans through technology.
+- Leads push to help more small businesses gain better access to retirement plans through technology.
 - Product design, including the creation of a virtual retirement assistant that provided portfolio management.
 
 **Founder, [Warranty Ninja](http://warranty.ninja/)** (2015-2017, Detroit MI)
@@ -49,4 +49,4 @@ Other
 **Alumni, [Power Moves](http://powermovesnola2.squarespace.com/)** (2015, Detroit MI)
 
 - National accelerator and pitch competition for underrepresented minorities.
-- $20,000 cash prize winner.
+- $20,000 cash prize pitch winner.
