@@ -18,7 +18,7 @@ Education
 
 Skills
 ------
-**Programming:** Java, Node, SQL, HTML/CSS, JavaScript, JSON, Spring MVC, git, Agile
+**Programming:** Java, Node, SQL, HTML/CSS, JavaScript, JSON, Spring MVC, Git, Agile
 
 **Tools:** Eclipse, Java Enterprise Edition, MySQL
 
@@ -48,9 +48,9 @@ Other
 
 **Alumni, [Startup Boost](http://startupboost.org/)** (2016, Detroit MI)
 
-- Pre-accelerator aimed at better preparing early stage startup founders for larger accelerator programs, seed investment and revenue.
+- Pre-accelerator program aimed at better preparing early stage startup founders for larger accelerator programs, seed investment and revenue.
 
 **Alumni, [Power Moves](http://powermovesnola2.squarespace.com/)** (2015, Detroit MI)
 
-- National accelerator and pitch competition for underrepresented minorities.
+- National accelerator program and pitch competition for underrepresented minorities.
 - $20,000 cash prize pitch [winner](https://www.freep.com/story/money/business/michigan/2015/04/15/power-moves-pitch-competition/25808015/).
