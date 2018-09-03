@@ -38,7 +38,7 @@ Experience
 
 - Developed and executed strategies that promoted participant action toward a fully funded retirement.
 - Built and fostered relationships with human resources departments, management teams and participants.
-- Conducted group education workshops, webinars and enrollment meetings to achieve VOYA goals.
+- Regularly conducted group education workshops, webinars and enrollment meetings.
 
 Other
 -----
