@@ -46,6 +46,10 @@ Other
 
 - National accelerator program and investment fund focused on civic ventures that include people as part of the solution to critical social problems.
 
+**Alumni, [Startup Boost](http://startupboost.org/)** (2016, Detroit MI)
+
+- Pre-accelerator aimed at better preparing early stage startup founders for larger accelerator programs, seed investment and revenue.
+
 **Alumni, [Power Moves](http://powermovesnola2.squarespace.com/)** (2015, Detroit MI)
 
 - National accelerator and pitch competition for underrepresented minorities.
