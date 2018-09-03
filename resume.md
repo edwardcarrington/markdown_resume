@@ -13,7 +13,6 @@ Education
 
 **Bachelor of Arts in Business Administration, Eastern Michigan University** (2000-2005)
 
-- Learned how to effectively plan, organize, direct and control organizational functions and processes.
 - Gained instruction in management theory, human resource management, accounting and marketing.
 
 Skills
