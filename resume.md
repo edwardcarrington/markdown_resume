@@ -1,7 +1,7 @@
 Edward Carrington
 ======
 
-#### Founder and former Investment Advisor turned Java developer. Believer in the Lean Business Model approach which favors experimentation, feedback, and iterative design. Would love to join an organization who is passionate about creating forward-thinking solutions that solve real problems.
+#### Founder and former Investment Advisor turned Java developer. Believer in the Lean Business Model approach which favors experimentation, feedback, and iterative design. Would love to join an organization that is passionate about creating forward-thinking solutions that solve real problems.
 ##### [ [GitHub](https://github.com/edwardcarrington) ] . [ [LinkedIn](https://www.linkedin.com/in/edwardcarrington/) ] . [ [Angel](https://angel.co/edwardcarrington) ] . [ [Twitter](https://twitter.com/_EdwardEssex_) ] . [ 248 789 8653 ]
 
 
