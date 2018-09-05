@@ -23,14 +23,14 @@ Skills
 
 Experience
 ----------
-**Founder, [Mytual Technologies](https://www.mytual.io/)** (2017-present, Detroit MI)
+**Founder, [Mytual Technologies](https://www.mytual.io/)** (2017-2018, Detroit MI)
 
-- Leads push to help more small businesses gain better access to retirement plans through technology.
-- Product design, including the creation of a virtual retirement assistant that provided portfolio management.
+- Led push to help more small businesses gain better access to retirement plans through technology.
+- [Product development](https://drive.google.com/drive/folders/1fGMHgZJYWjG0-H_g9CZ-xVF73OCv2jIO?usp=sharing), including the creation of a virtual retirement assistant that provided portfolio management.
 
 **Founder, [Warranty Ninja](http://warranty.ninja/)** (2015-2017, Detroit MI)
 
-- Managed all levels of product development, implementation strategies, and support systems.
+- Managed all levels of [product development](https://drive.google.com/open?id=1f0YtYD7v7nrU-LCEKua0LVy1SZznAAEl), implementation strategies, and support systems.
 - Interfaced with key advisors, mentors, customers and partners throughout the US and Canada.
 
 **Investment Advisor, [VOYA Financial](https://www.voya.com/)** (2007-2017, Lansing MI)
