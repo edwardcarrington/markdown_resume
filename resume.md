@@ -39,6 +39,21 @@ Experience
 - Built and fostered relationships with human resources departments, management teams and participants.
 - Regularly conducted group education workshops, webinars and enrollment meetings.
 
+Accelerators
+------------
+**Alumni, [1000 Points of Light](https://cvcx.org/cohort-9/#.W4quD5NKhTY)** (2017, Atlanta GA)
+
+- National accelerator program and investment fund focused on civic ventures that include people as part of the solution to critical social problems.
+
+**Alumni, [Startup Boost](http://startupboost.org/)** (2016, Detroit MI)
+
+- Pre-accelerator program aimed at better preparing early stage startup founders for larger accelerator programs, seed investment and revenue.
+
+**Alumni, [Power Moves](http://powermovesnola2.squarespace.com/)** (2015, Detroit MI)
+
+- National accelerator program and pitch competition for underrepresented minorities.
+- $20,000 cash prize pitch [winner](https://www.freep.com/story/money/business/michigan/2015/04/15/power-moves-pitch-competition/25808015/).
+
 Activities
 ----------
 **Mentor, [Henry Ford Learning Institute](https://hfli.org/)** (2017-present, Detroit MI) 
@@ -53,16 +68,3 @@ Activities
 **Organizer, [Detroit Fintech Challenge](http://www.detroitfintechchallenge.com/)** (2018, Detroit MI)
 
 - National competition that unites key players in the Fintech ecosystem to generate enduring solutions to the biggest challenges and major concerns in the financial, payments, banking, and insurance sectors.
-
-**Alumni, [1000 Points of Light](https://cvcx.org/cohort-9/#.W4quD5NKhTY)** (2017, Atlanta GA)
-
-- National accelerator program and investment fund focused on civic ventures that include people as part of the solution to critical social problems.
-
-**Alumni, [Startup Boost](http://startupboost.org/)** (2016, Detroit MI)
-
-- Pre-accelerator program aimed at better preparing early stage startup founders for larger accelerator programs, seed investment and revenue.
-
-**Alumni, [Power Moves](http://powermovesnola2.squarespace.com/)** (2015, Detroit MI)
-
-- National accelerator program and pitch competition for underrepresented minorities.
-- $20,000 cash prize pitch [winner](https://www.freep.com/story/money/business/michigan/2015/04/15/power-moves-pitch-competition/25808015/).
