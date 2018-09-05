@@ -26,7 +26,7 @@ Experience
 **Founder, [Mytual Technologies](https://www.mytual.io/)** (2017-2018, Detroit MI)
 
 - Led push to help more small businesses gain better access to retirement plans through technology.
-- [Product development](https://drive.google.com/drive/folders/1fGMHgZJYWjG0-H_g9CZ-xVF73OCv2jIO?usp=sharing), including the creation of a virtual retirement assistant that provided portfolio management.
+- Managed all levels of [product development](https://drive.google.com/drive/folders/1fGMHgZJYWjG0-H_g9CZ-xVF73OCv2jIO?usp=sharing), including the creation of a virtual retirement assistant that provided portfolio management.
 
 **Founder, [Warranty Ninja](http://warranty.ninja/)** (2015-2017, Detroit MI)
 
