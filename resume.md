@@ -39,8 +39,21 @@ Experience
 - Built and fostered relationships with human resources departments, management teams and participants.
 - Regularly conducted group education workshops, webinars and enrollment meetings.
 
-Other
------
+Activities
+----------
+**Mentor, [Henry Ford Learning Institute](https://hfli.org/)** (2017-present, Detroit MI) 
+
+-Entrepreneurship program that empowers youth to take charge of the impact they want to create for themselves and for others.
+-Through work in teams and alongside mentors who are entrepreneurs and social innovators, youth gain in-demand skills and mindsets that position them as emerging changemakers in school, at work, and for their community.
+
+**Judge, [Detroit Hackathon](http://www.dhack.org/)** (2018, Detroit MI)
+
+-24 Hour Hackathon where college and high school students come together in teams to build tech projects that will culminate in cash and prizes for the winning projects.
+
+**Organizer, [Detroit Fintech Challenge](http://www.detroitfintechchallenge.com/)** (2018, Detroit MI)
+
+-National competition that unites key players in the Fintech ecosystem to generate enduring solutions to the biggest challenges and major concerns in the financial, payments, banking, and insurance sectors.
+
 **Alumni, [1000 Points of Light](https://cvcx.org/cohort-9/#.W4quD5NKhTY)** (2017, Atlanta GA)
 
 - National accelerator program and investment fund focused on civic ventures that include people as part of the solution to critical social problems.
