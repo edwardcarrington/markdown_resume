@@ -43,8 +43,7 @@ Activities
 ----------
 **Mentor, [Henry Ford Learning Institute](https://hfli.org/)** (2017-present, Detroit MI) 
 
--Entrepreneurship program that empowers youth to take charge of the impact they want to create for themselves and for others.
--Through work in teams and alongside mentors who are entrepreneurs and social innovators, youth gain in-demand skills and mindsets that position them as emerging changemakers in school, at work, and for their community.
+-Entrepreneurship program that empowers youth to take charge of the impact they want to create for themselves and for others. Youth gain in-demand skills and mindsets that position them as emerging changemakers in school, at work, and for their community.
 
 **Judge, [Detroit Hackathon](http://www.dhack.org/)** (2018, Detroit MI)
 
