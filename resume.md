@@ -11,7 +11,7 @@ Education
 
 - Focused on developing and applying the OOP concepts in building enterprise Java applications using Spring Hibernate and other frameworks.
 
-**Bachelor of Arts in Business Administration, Eastern Michigan University** (2000-2005)
+**Bachelor of Arts in Business Administration, [Eastern Michigan University](https://www.emich.edu/cob/index.php)** (2000-2005)
 
 - Gained instruction in management theory, human resource management, accounting and marketing.
 
