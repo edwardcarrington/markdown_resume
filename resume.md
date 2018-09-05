@@ -33,7 +33,7 @@ Experience
 - Managed all levels of product development, implementation strategies, and support systems.
 - Interfaced with key advisors, mentors, customers and partners throughout the US and Canada.
 
-**Investment Advisor, VOYA Financial** (2007-2017, Lansing MI)
+**Investment Advisor, [VOYA Financial](https://www.voya.com/)** (2007-2017, Lansing MI)
 
 - Developed and executed strategies that promoted participant action toward a fully funded retirement.
 - Built and fostered relationships with human resources departments, management teams and participants.
