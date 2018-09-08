@@ -17,9 +17,9 @@ Education
 
 Skills
 ------
-**Programming:** Java, Spring MVC, SQL, HTML5/CSS, JavaScript, JSON, Git, Node, Agile
+**Programming:** Java, Spring MVC, SQL, HTML5/CSS, JavaScript, JSON, GIT, Node, Agile
 
-**Tools:** Eclipse, Java Enterprise Edition, MySQL
+**Tools:** Eclipse, MySQL
 
 Experience
 ----------
