@@ -61,9 +61,13 @@ Activities
 - Entrepreneurship program that empowers youth to take charge of the impact they want to create for themselves and for others.
 - Through work in teams and alongside mentors who are entrepreneurs and social innovators, youth gain in-demand skills and mindsets that position them as emerging changemakers in school, at work, and for their community.
 
-**Judge, [Detroit Hackathon](http://www.dhack.org/)** (2018, Detroit MI)
+**Judge, [DHack](http://www.dhack.org/)** (2018, Detroit MI)
 
 - 24 Hour Hackathon where college and high school students come together in teams to build tech projects that will culminate in cash and prizes for the winning projects.
+
+**Volunteer, [Code{D}etroit](http://www.crainsdetroit.com/article/20180524/news/661666/quicken-loans-grand-circus-to-teach-detroit-students-coding-skills)** (2018, Detroit MI)
+
+- Coding program that introduced programing basics to over 2,500 inner-city Detroit students.
 
 **Organizer, [Detroit Fintech Challenge](http://www.detroitfintechchallenge.com/)** (2018, Detroit MI)
 
