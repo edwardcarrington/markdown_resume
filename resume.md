@@ -67,7 +67,7 @@ Activities
 
 **Volunteer, [Code{D}etroit](http://www.crainsdetroit.com/article/20180524/news/661666/quicken-loans-grand-circus-to-teach-detroit-students-coding-skills)** (2018, Detroit MI)
 
-- Coding program that introduced programing basics to over 2,500 inner-city Detroit students.
+- Coding program that introduced programming basics to over 2,500 inner-city Detroit children.
 
 **Organizer, [Detroit Fintech Challenge](http://www.detroitfintechchallenge.com/)** (2018, Detroit MI)
 
