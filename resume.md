@@ -9,6 +9,7 @@ Education
 **Java Developer Bootcamp, [Grand Circus Detroit](https://www.grandcircus.co/)** (September 2018)
 
 - Focused on developing and applying the OOP concepts in building enterprise Java applications using Spring Hibernate and other frameworks.
+- [Facebook](https://michronicleonline.com/2018/06/04/217327/) sponsored scholarship recipient.
 
 **Bachelor of Arts in Business Administration, [Eastern Michigan University](https://www.emich.edu/cob/index.php)** (2000-2005)
 
@@ -40,7 +41,7 @@ Experience
 
 Accelerators
 ------------
-**Alumni, [1000 Points of Light](https://cvcx.org/cohort-9/#.W4quD5NKhTY)** (2017, Atlanta GA)
+**Alumni, [1000 Points of Light](https://cvcx.org/cohort-9/)** (2017, Atlanta GA)
 
 - National accelerator program and investment fund focused on civic ventures that include people as part of the solution to critical social problems.
 
@@ -57,7 +58,7 @@ Activities
 ----------
 **Mentor, [Henry Ford Learning Institute](https://hfli.org/)** (2017-present, Detroit MI) 
 
-- Entrepreneurship program that empowers youth to take charge of the impact they want to create for themselves and for others.
+- Entrepreneurship program that empowers youth to take charge of the impact they want to create for themselves and others.
 - Through work in teams and alongside mentors who are entrepreneurs and social innovators, youth gain in-demand skills and mindsets that position them as emerging changemakers in school, at work, and for their community.
 
 **Judge, [DHack](http://www.dhack.org/)** (2018, Detroit MI)
