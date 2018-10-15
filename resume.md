@@ -39,8 +39,8 @@ Experience
 - Built and fostered relationships with human resources departments, management teams and participants.
 - Regularly conducted group education workshops, webinars and enrollment meetings.
 
-Accelerators
-------------
+Alumni
+------
 **[1000 Points of Light](https://cvcx.org/cohort-9/)** (2017, Atlanta GA)
 
 - National accelerator program and investment fund focused on civic ventures that include people as part of the solution to critical social problems.
@@ -54,8 +54,8 @@ Accelerators
 - National accelerator program and pitch competition for underrepresented minorities.
 - $20,000 cash prize pitch [winner](https://www.freep.com/story/money/business/michigan/2015/04/15/power-moves-pitch-competition/25808015/).
 
-Activities
-----------
+Community
+---------
 **Mentor, [Henry Ford Learning Institute](https://hfli.org/)** (2017 - present, Detroit MI) 
 
 - Entrepreneurship program that empowers youth to take charge of the impact they want to create for themselves and others.
