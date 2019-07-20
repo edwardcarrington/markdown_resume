@@ -1,28 +1,26 @@
 Edward Carrington
 ======
 
-#### Founder and former Investment Advisor turned Java developer. Believer in the Lean Business Model approach which favors experimentation, feedback, and iterative design. Would love to join an organization that is passionate about creating forward-thinking solutions that solve real problems.
-#### [ [LinkedIn](https://www.linkedin.com/in/edwardcarrington/) ] . [ [Angel](https://angel.co/edwardcarrington) ] . [ [Twitter](https://twitter.com/_EdwardEssex_) ] . [ <edward@detroit.ai> ]
-
-Education
----------
-**Java Developer Bootcamp, [Grand Circus](https://www.grandcircus.co/)** (June 2018 - September 2018, Detroit MI)
-
-- Focused on developing and applying the OOP concepts in building enterprise Java applications using Spring Hibernate and other frameworks.
-- [Facebook](https://michronicleonline.com/2018/06/04/217327/) sponsored scholarship recipient.
-
-**Bachelor of Arts in Business Administration, [Eastern Michigan University](https://www.emich.edu/cob/index.php)** (2000 - 2005, Ypsilanti MI)
-
-- Gained instruction in management theory, human resource management, accounting and marketing.
+#### "For the wise man looks into space and he knows there is no limited dimensions." — Zhuangzi
+#### [ [linkedin](https://www.linkedin.com/in/edwardcarrington/) ] . [ [angel](https://angel.co/edwardcarrington) ] . [ [twitter](https://twitter.com/_EdwardEssex_) ] . [ [email](edward@flux.city) ]
 
 Skills
 ------
 **Programming:** Java, Python, Spring MVC, SQL, HTML5/CSS, JavaScript, JSON, GIT, Node, Agile
 
-**Tools:** Eclipse, PyCharm, MySQL, Azure, Amazon Web Services, Google Cloud
-
 Experience
 ----------
+**Millennial Advisory Board Member, [First Independence Bank](https://www.firstindependence.com/)** (2019 - present, Detroit MI)
+
+- Includes 13 Metro Detroit leaders selected from a long list of candidates, representing very diverse industries.
+- Newly created Millennial Advisory Board focuses on helping the bank to better understand the unique needs of millennials.
+
+**Mayor, [Flux City](https://www.flux.city/)** (2008 - present, Detroit MI)
+
+- Flux City conceptualizes urban development in a manor that assumes change is the norm.
+- Aims to deliver on outstanding projects of superior value that energize communities throughout Detroit.
+- Edward’s unique background in technology, investment banking, and urban residential housing development supports Flux City and its mission of enriching the neighborhoods in which we serve through.
+
 **Founder, [Mytual Technologies](https://www.mytual.io/)** (2017 - 2018, Detroit MI)
 
 - Leads push to help small businesses gain better access to retirement plans through technology.
@@ -41,6 +39,14 @@ Experience
 
 Alumni
 ------
+**[Equitable Development Initiative by Capital Impact Partners](https://www.capitalimpact.org/what/capacity-building/equitable-development-initiative/)** (2019, Detroit MI)
+
+- Inclusive economic development program that combines local knowledge, partnerships, and key strengths – including program design and project financing – to support minority developers.
+
+**[Better Buildings, Better Blocks](http://www.bcvdetroit.org/)** (2018, Detroit MI)
+
+- Development program dedicated to implementing and facilitating real estate development projects in underserved neighborhoods throughout the city of Detroit.
+
 **[1000 Points of Light](https://cvcx.org/cohort-9/)** (2017, Atlanta GA)
 
 - National accelerator program and investment fund focused on civic ventures that include people as part of the solution to critical social problems.
@@ -72,3 +78,14 @@ Community
 **Organizer, [Detroit Fintech Challenge](http://www.detroitfintechchallenge.com/)** (2018, Detroit MI)
 
 - National competition that unites key players in the Fintech ecosystem to generate enduring solutions to the biggest challenges and major concerns in the financial, payments, banking, and insurance sectors.
+
+Education
+---------
+**Java Developer Bootcamp, [Grand Circus](https://www.grandcircus.co/)** (June 2018 - September 2018, Detroit MI)
+
+- Focused on developing and applying the OOP concepts in building enterprise Java applications using Spring Hibernate and other frameworks.
+- [Facebook](https://michronicleonline.com/2018/06/04/217327/) sponsored scholarship recipient.
+
+**Bachelor of Arts in Business Administration, [Eastern Michigan University](https://www.emich.edu/cob/index.php)** (2000 - 2005, Ypsilanti MI)
+
+- Gained instruction in management theory, human resource management, accounting and marketing.
