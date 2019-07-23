@@ -1,7 +1,7 @@
 Edward Carrington
 ======
 
-#### "For the wise man looks into space and he knows there is no limited dimensions." — Zhuangzi
+#### Believer in the Lean Business Model approach which favors experimentation, feedback, and iterative design.
 #### [ [linkedin](https://www.linkedin.com/in/edwardcarrington/) ] . [ [angel](https://angel.co/edwardcarrington) ] . [ [twitter](https://twitter.com/_EdwardEssex_) ] . [ [email](edward@flux.city) ]
 
 Skills
