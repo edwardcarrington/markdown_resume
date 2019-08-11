@@ -91,6 +91,6 @@ Education
 - Focused on developing and applying the OOP concepts in building enterprise Java applications using Spring Hibernate and other frameworks.
 - [Facebook](https://michronicleonline.com/2018/06/04/217327/) sponsored scholarship recipient.
 
-**Bachelor of Arts in Business Administration, [Eastern Michigan University](https://www.emich.edu/cob/index.php)** (2000 - 2005, Ypsilanti MI)
+**Bachelor of Arts in Business Administration, [Eastern Michigan University](https://www.emich.edu/cob/index.php)** (Ypsilanti MI)
 
 - Gained instruction in management theory, human resource management, accounting and marketing.
