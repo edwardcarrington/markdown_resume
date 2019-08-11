@@ -1,12 +1,12 @@
 Edward Carrington
 ======
 
-#### Believer in the Lean Business Model approach which favors experimentation, feedback, and iterative design.
+#### Tech enthusiast, serial entrepreneur, and deed collector. Believer in the Lean Business Model approach which favors experimentation, feedback, and iterative design.
 #### [ [linkedin](https://www.linkedin.com/in/edwardcarrington/) ] . [ [angel](https://angel.co/edwardcarrington) ] . [ [twitter](https://twitter.com/_EdwardEssex_) ] . [ [email](edward@flux.city) ]
 
 Skills
 ------
-**Programming:** Java, Python, Spring MVC, SQL, HTML5/CSS, JavaScript, JSON, GIT, Node, Agile
+**Programming:** Java, Python, Spring MVC, SQL, HTML5/CSS, JavaScript, JSON, GIT, Agile
 
 Experience
 ----------
@@ -39,6 +39,11 @@ Experience
 
 Alumni
 ------
+**[StartupBus North America 2019](https://startupbus.com/)** (2019, New York, Atlanta, Detroit, Montgomery, New Orleans)
+
+- Sponsored by JPMorgan Chase Advancing Black Pathways initiative and Chase for Business, the Advancing Black Entrepreneurs StartupBus was both a five-day, traveling technology bootcamp for entrepreneurs, and a competition.
+- 1 of 3 finalists out of 28 teams across the country (and Mexico).
+
 **[Equitable Development Initiative by Capital Impact Partners](https://www.capitalimpact.org/what/capacity-building/equitable-development-initiative/)** (2019, Detroit MI)
 
 - Inclusive economic development program that combines local knowledge, partnerships, and key strengths – including program design and project financing – to support minority developers.
