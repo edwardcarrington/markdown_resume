@@ -1,7 +1,7 @@
 Edward Carrington
 ======
 
-#### Tech enthusiast, serial entrepreneur, and deed collector. Believer in the Lean Business Model approach which favors experimentation, feedback, and iterative design.
+#### 3X startup founder with a unique background in investment banking, real estate, and code.
 #### [ [linkedin](https://www.linkedin.com/in/edwardcarrington/) ] . [ [angel](https://angel.co/edwardcarrington) ] . [ [twitter](https://twitter.com/_EdwardEssex_) ] . [ [email](edward@flux.city) ]
 
 Skills
