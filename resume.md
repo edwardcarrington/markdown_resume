@@ -10,12 +10,22 @@ Skills
 
 Experience
 ----------
+**Co-Founder & CEO, [SmallStreet](https://www.smallstreet.co/)** (2019 - present, Detroit MI)
+
+- Leading the push to help small businesses raise capital to grow and scale.
+- Manages all levels of product development.
+
+**BUF Connect Advisory Board Member, [Black United Fund of Michigan](https://www.bufmi.org//)** (2019 - present, Detroit MI)
+
+- works closely with leadership in helping to develop its Millennial engagement and social impact strategy throughout Michigan.
+- Focuses on helping the organization to better understand the unique needs of millennials.
+
 **Millennial Advisory Board Member, [First Independence Bank](https://www.firstindependence.com/)** (2019 - present, Detroit MI)
 
 - Includes 13 Metro Detroit leaders selected from a long list of candidates, representing very diverse industries.
 - Newly created Millennial Advisory Board focuses on helping the bank to better understand the unique needs of millennials.
 
-**Mayor, [Flux City](https://www.flux.city/)** (2008 - present, Detroit MI)
+**Founder & Mayor, [Flux City](https://www.flux.city/)** (2008 - present, Detroit MI)
 
 - Flux City conceptualizes urban development in a manor that assumes change is the norm.
 - Aims to deliver on outstanding projects of superior value that energize communities throughout Detroit.
@@ -23,8 +33,8 @@ Experience
 
 **Founder, [Mytual Technologies](https://www.mytual.io/)** (2017 - 2018, Detroit MI)
 
-- Leads push to help small businesses gain better access to retirement plans through technology.
-- Manages all levels of [product development](https://drive.google.com/drive/folders/1fGMHgZJYWjG0-H_g9CZ-xVF73OCv2jIO?usp=sharing), including the creation of a virtual retirement assistant that provides portfolio management.
+- Led push to help small businesses gain better access to retirement plans through technology.
+- Managed all levels of [product development](https://drive.google.com/drive/folders/1fGMHgZJYWjG0-H_g9CZ-xVF73OCv2jIO?usp=sharing), including the creation of a virtual retirement assistant that provides portfolio management.
 
 **Founder, [Warranty Ninja](http://warranty.ninja/)** (2015 - 2017, Detroit MI)
 
