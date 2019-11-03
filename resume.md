@@ -10,7 +10,7 @@ Skills
 
 **Interpersonal:** Mentorship, Management, Leadership, Service
 
-**Tools & Technologies:** Java, Python, Spring MVC, SQL, HTML5/CSS, JavaScript, JSON, GIT, Agile
+**Tools & Technologies:** Java, Python, Spring MVC, SQL, HTML5/CSS, JavaScript, JSON, GIT, SoapUI, Fiddler, Jenkins, Agile
 
 Experience
 ----------
