@@ -1,12 +1,16 @@
 Edward Carrington
 ======
 
-#### 3X startup founder with a unique background in investment banking, real estate, and code.
+#### Serial entrepreneur with a unique background in investment banking, real estate, and code.
 #### [ [linkedin](https://www.linkedin.com/in/edwardcarrington/) ] . [ [angel](https://angel.co/edwardcarrington) ] . [ [twitter](https://twitter.com/_EdwardEssex_) ] . [ [email](edward@flux.city) ]
 
 Skills
 ------
-**Programming:** Java, Python, Spring MVC, SQL, HTML5/CSS, JavaScript, JSON, GIT, Agile
+**Industry Knowledge:** Banking, Retirement Services, Investments, Stradegy, Entrepreneurship, Real Estate Development, Business Development
+
+**Interpersonal:** Mentorship, Management, Leadership, Service
+
+**Tools & Technologies:** Java, Python, Spring MVC, SQL, HTML5/CSS, JavaScript, JSON, GIT, Agile
 
 Experience
 ----------
