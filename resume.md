@@ -6,7 +6,7 @@ Edward Carrington
 
 Skills
 ------
-**Industry Knowledge:** Banking, Retirement Services, Investments, Stradegy, Entrepreneurship, Real Estate Development, Business Development
+**Industry Knowledge:** Banking, Retirement Services, Investments, Strategy, Entrepreneurship, Startups, Community Engagement, Real Estate Development
 
 **Interpersonal:** Mentorship, Management, Leadership, Service
 
