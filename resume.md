@@ -1,46 +1,44 @@
 Edward Carrington
 ======
 
-#### Serial entrepreneur with a unique background in investment banking, real estate, and code.
-#### [ [linkedin](https://www.linkedin.com/in/edwardcarrington/) ] . [ [angel](https://angel.co/edwardcarrington) ] . [ [twitter](https://twitter.com/_EdwardEssex_) ] . [ [email](edward@flux.city) ]
+#### Serial entrepreneur with a unique background in real estate, software, and banking.
+#### [ [linkedin](https://www.linkedin.com/in/edwardcarrington/) ] . [ [angel](https://angel.co/edwardcarrington) ] . [ [twitter](https://twitter.com/edvvardoe) ] . [ [email](edward@flux.city) ]
 
 Skills
 ------
-**Industry Knowledge:** Banking, Retirement Services, Investments, Strategy, Entrepreneurship, Startups, Community Engagement, Real Estate Development
+**Industry Knowledge:** Real Estate, Startups, Software, Banking
 
-**Interpersonal:** Mentorship, Management, Leadership, Service
-
-**Tools & Technologies:** Java, Python, Spring MVC, SQL, HTML5/CSS, JavaScript, JSON, GIT, SoapUI, Fiddler, Jenkins, Agile
+**Interpersonal:** Mentorship, Management, Leadership, Service, Community Engagement
 
 Experience
 ----------
-**Co-Founder & CEO, [SmallStreet](https://www.smallstreet.co/)** (2019 - present, Detroit MI)
-
-- Leading the push to help small businesses raise capital to grow and scale.
-- Manages all levels of product development.
-
-**BUF Connect Advisory Board Member, [Black United Fund of Michigan](https://www.bufmi.org//)** (2019 - present, Detroit MI)
-
-- works closely with leadership in helping to develop its Millennial engagement and social impact strategy throughout Michigan.
-- Focuses on helping the organization to better understand the unique needs of millennials.
-
-**Millennial Advisory Board Member, [First Independence Bank](https://www.firstindependence.com/)** (2019 - present, Detroit MI)
-
-- Includes 13 Metro Detroit leaders selected from a long list of candidates, representing very diverse industries.
-- Newly created Millennial Advisory Board focuses on helping the bank to better understand the unique needs of millennials.
-
-**Founder & Mayor, [Flux City](https://www.flux.city/)** (2008 - present, Detroit MI)
+**Founder, [Flux City](https://www.flux.city/)** (2008 - present, Detroit MI)
 
 - Flux City conceptualizes urban development in a manor that assumes change is the norm.
 - Aims to deliver on outstanding projects of superior value that energize communities throughout Detroit.
 - Edward’s unique background in technology, investment banking, and urban residential housing development supports Flux City and its mission of enriching the neighborhoods in which we serve through.
 
+**Next-Gen Board of Advisors Member, [First Independence Bank](https://www.firstindependence.com/)** (2019 - present, Detroit MI)
+
+- First Independence Bank created a new opportunity to empower the leaders of tomorrow by exposing them to corporate engagement and leadership development.
+- The First Independence Bank Next-Gen Board of Advisors includes 13 Metro Detroit leaders who represent diverse industries to contribute to the vision of the bank.
+
+**BUF Connect Advisory Board Member, [Black United Fund of Michigan](https://www.bufmi.org//)** (2019 - 2021, Detroit MI)
+
+- Worked closely with leadership in helping to develop its millennial engagement and social impact strategy throughout Michigan.
+- Focused on helping the organization to better understand the unique needs of millennials.
+
+**Co-Founder, [SmallStreet](https://www.smallstreet.co/)** (2019 - 2020, Detroit MI)
+
+- Lead the push to help small businesses raise capital to grow and scale.
+- Managed all levels of product development.
+
 **Founder, [Mytual Technologies](https://www.mytual.io/)** (2017 - 2018, Detroit MI)
 
 - Led push to help small businesses gain better access to retirement plans through technology.
-- Managed all levels of [product development](https://drive.google.com/drive/folders/1fGMHgZJYWjG0-H_g9CZ-xVF73OCv2jIO?usp=sharing), including the creation of a virtual retirement assistant that provides portfolio management.
+- Managed all levels of product development, including the creation of a virtual retirement assistant that provides portfolio management.
 
-**Founder, [Warranty Ninja](http://warranty.ninja/)** (2015 - 2017, Detroit MI)
+**Co-Founder, [Warranty Ninja](http://warranty.ninja/)** (2015 - 2017, Detroit MI)
 
 - Managed all levels of [product development](https://drive.google.com/open?id=1f0YtYD7v7nrU-LCEKua0LVy1SZznAAEl), implementation strategies, and support systems.
 - Interfaced with key advisors, mentors, customers and partners throughout the US and Canada.
@@ -81,7 +79,11 @@ Alumni
 
 Community
 ---------
-**Mentor, [Henry Ford Learning Institute](https://hfli.org/)** (2017 - present, Detroit MI) 
+**Volunteer, [Detroit Black Tech](https://www.detroitblacktech.org/)** (2018 - 2021, Detroit MI)
+
+- DBT focuses on initiatives that support the growth of the local community, and inspires others to start or advance their technology journey.
+
+**Mentor, [Henry Ford Learning Institute](https://hfli.org/)** (2017 - 2019, Detroit MI) 
 
 - Entrepreneurship program that empowers youth to take charge of the impact they want to create for themselves and others.
 - Through work in teams and alongside mentors who are entrepreneurs and social innovators, youth gain in-demand skills and mindsets that position them as emerging changemakers in school, at work, and for their community.
@@ -100,7 +102,7 @@ Community
 
 Education
 ---------
-**Java Developer Bootcamp, [Grand Circus](https://www.grandcircus.co/)** (June 2018 - September 2018, Detroit MI)
+**Java Developer Bootcamp, [Grand Circus](https://www.grandcircus.co/)** (2018, Detroit MI)
 
 - Focused on developing and applying the OOP concepts in building enterprise Java applications using Spring Hibernate and other frameworks.
 - [Facebook](https://michronicleonline.com/2018/06/04/217327/) sponsored scholarship recipient.
